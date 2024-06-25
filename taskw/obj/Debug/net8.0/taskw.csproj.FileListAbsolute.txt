@@ -1,0 +1,14 @@
+/home/w4r10rd/taskw/bin/Debug/net8.0/taskw
+/home/w4r10rd/taskw/bin/Debug/net8.0/taskw.deps.json
+/home/w4r10rd/taskw/bin/Debug/net8.0/taskw.runtimeconfig.json
+/home/w4r10rd/taskw/bin/Debug/net8.0/taskw.dll
+/home/w4r10rd/taskw/bin/Debug/net8.0/taskw.pdb
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.GeneratedMSBuildEditorConfig.editorconfig
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.AssemblyInfoInputs.cache
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.AssemblyInfo.cs
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.csproj.CoreCompileInputs.cache
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.dll
+/home/w4r10rd/taskw/obj/Debug/net8.0/refint/taskw.dll
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.pdb
+/home/w4r10rd/taskw/obj/Debug/net8.0/taskw.genruntimeconfig.cache
+/home/w4r10rd/taskw/obj/Debug/net8.0/ref/taskw.dll
