@@ -1,0 +1,14 @@
+/home/w4r10rd/voteMaster/bin/Debug/net8.0/voteMaster
+/home/w4r10rd/voteMaster/bin/Debug/net8.0/voteMaster.deps.json
+/home/w4r10rd/voteMaster/bin/Debug/net8.0/voteMaster.runtimeconfig.json
+/home/w4r10rd/voteMaster/bin/Debug/net8.0/voteMaster.dll
+/home/w4r10rd/voteMaster/bin/Debug/net8.0/voteMaster.pdb
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.GeneratedMSBuildEditorConfig.editorconfig
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.AssemblyInfoInputs.cache
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.AssemblyInfo.cs
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.csproj.CoreCompileInputs.cache
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.dll
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/refint/voteMaster.dll
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.pdb
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/voteMaster.genruntimeconfig.cache
+/home/w4r10rd/voteMaster/obj/Debug/net8.0/ref/voteMaster.dll

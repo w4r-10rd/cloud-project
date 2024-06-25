@@ -1,0 +1,14 @@
+/home/w4r10rd/voteWorker/bin/Debug/net8.0/voteWorker
+/home/w4r10rd/voteWorker/bin/Debug/net8.0/voteWorker.deps.json
+/home/w4r10rd/voteWorker/bin/Debug/net8.0/voteWorker.runtimeconfig.json
+/home/w4r10rd/voteWorker/bin/Debug/net8.0/voteWorker.dll
+/home/w4r10rd/voteWorker/bin/Debug/net8.0/voteWorker.pdb
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.GeneratedMSBuildEditorConfig.editorconfig
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.AssemblyInfoInputs.cache
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.AssemblyInfo.cs
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.csproj.CoreCompileInputs.cache
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.dll
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/refint/voteWorker.dll
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.pdb
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/voteWorker.genruntimeconfig.cache
+/home/w4r10rd/voteWorker/obj/Debug/net8.0/ref/voteWorker.dll
