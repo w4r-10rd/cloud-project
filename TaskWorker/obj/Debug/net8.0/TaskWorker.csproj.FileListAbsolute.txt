@@ -1,0 +1,14 @@
+/home/w4r10rd/TaskWorker/bin/Debug/net8.0/TaskWorker
+/home/w4r10rd/TaskWorker/bin/Debug/net8.0/TaskWorker.deps.json
+/home/w4r10rd/TaskWorker/bin/Debug/net8.0/TaskWorker.runtimeconfig.json
+/home/w4r10rd/TaskWorker/bin/Debug/net8.0/TaskWorker.dll
+/home/w4r10rd/TaskWorker/bin/Debug/net8.0/TaskWorker.pdb
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.GeneratedMSBuildEditorConfig.editorconfig
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.AssemblyInfoInputs.cache
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.AssemblyInfo.cs
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.csproj.CoreCompileInputs.cache
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.dll
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/refint/TaskWorker.dll
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.pdb
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/TaskWorker.genruntimeconfig.cache
+/home/w4r10rd/TaskWorker/obj/Debug/net8.0/ref/TaskWorker.dll

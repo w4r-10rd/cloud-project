@@ -1,0 +1,14 @@
+/home/w4r10rd/ChatServer/bin/Debug/net8.0/ChatServer
+/home/w4r10rd/ChatServer/bin/Debug/net8.0/ChatServer.deps.json
+/home/w4r10rd/ChatServer/bin/Debug/net8.0/ChatServer.runtimeconfig.json
+/home/w4r10rd/ChatServer/bin/Debug/net8.0/ChatServer.dll
+/home/w4r10rd/ChatServer/bin/Debug/net8.0/ChatServer.pdb
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.AssemblyInfoInputs.cache
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.AssemblyInfo.cs
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.csproj.CoreCompileInputs.cache
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.dll
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/refint/ChatServer.dll
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.pdb
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ChatServer.genruntimeconfig.cache
+/home/w4r10rd/ChatServer/obj/Debug/net8.0/ref/ChatServer.dll
